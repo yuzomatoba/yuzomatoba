@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=B942F5&center=true&width=900&height=100&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h2>About me</h2>
-<h3>A front-end developer who loves sharing my experiences with others making the world a better place. </h3>
+<h5>A front-end developer who loves sharing my experiences with others making the world a better place. </h5>
         
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yuzomatoba)](https://www.linkedin.com/in/fabio-yuzo/)
