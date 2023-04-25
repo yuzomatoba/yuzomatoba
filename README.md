@@ -35,7 +35,6 @@
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzomatoba&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://media.tenor.com/pZxJ1m0eg8kAAAAM/doge-type.gif" alt="doguinho" width="130" height="130"/>
 
 </div>
