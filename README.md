@@ -6,6 +6,7 @@
 <h2>About me</h2>
 <h5>A front-end developer who loves sharing my experiences with others making the world a better place. </h5>
         
+        
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yuzomatoba)](https://www.linkedin.com/in/fabio-yuzo/)
 <br></br>
