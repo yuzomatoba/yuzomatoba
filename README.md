@@ -5,7 +5,8 @@
 
 <h2>About me</h2>
 <h5>A front-end developer who loves sharing my experiences with others through the tecnology, making the world a better place to live.</h5>
-        email: fabioymatoba@uol.com.br
+
+#mailbox email: fabioymatoba@uol.com.br
         
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yuzomatoba)](https://www.linkedin.com/in/fabio-yuzo/)
