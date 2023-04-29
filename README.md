@@ -6,7 +6,7 @@
 <h2>About me</h2>
 <h5>A front-end developer who loves sharing experiences with others through the tecnology, making the world a better place to live.</h5>
 
-![image](https://user-images.githubusercontent.com/108953241/235271235-5129193e-4101-448b-975f-27d2dfeb6c88.png) fabioymatoba@uol.com.br
+![image](https://user-images.githubusercontent.com/108953241/235271235-5129193e-4101-448b-975f-27d2dfeb6c88.png)  fabioymatoba@uol.com.br
         
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/yuzomatoba)](https://www.linkedin.com/in/fabio-yuzo/)
