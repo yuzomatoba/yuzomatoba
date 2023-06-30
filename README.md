@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=B942F5&center=true&width=900&height=100&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h2>About me</h2>
-<h5>A front-end developer who loves sharing experiences with others through the tecnology, making the world a better place to live.</h5>
+<h5>A full-stack developer who loves sharing experiences with others through the tecnology, making the world a better place to live.</h5>
 
 ![image](https://user-images.githubusercontent.com/108953241/235271235-5129193e-4101-448b-975f-27d2dfeb6c88.png)  fabioymatoba@uol.com.br
         
